@@ -1,0 +1,27 @@
+#overmij{
+    background-image: url(../Afbeeldingen/20230722_151155.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+#container1{
+    background-color: beige;
+    opacity: 0.7;
+    color: black;
+}
+a:hover{
+    background-color:mistyrose ;
+}
+#head{
+    display: inline;
+}
+footer{
+    min-height: 200px;
+    background-color: antiquewhite;
+}
+#contactform{
+    margin: 10px 10px 10px 10px;
+}
+.form-group{
+    margin: 10px 10px 10px 10px;
+}
